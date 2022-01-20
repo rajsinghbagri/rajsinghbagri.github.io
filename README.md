@@ -1,7 +1,11 @@
 ## Hey Welcome!
 
 I am final year UG student at IIT Bombay & incoming product associate at Kotak Securities.
-A product & strategy person with a strong business orientation. Product strategy to improve customer/user experience & NPS in the growth phase startups and large organizations. Eager to solve problems in a fast-paced environment. I have hands on experience in building SAAS prdouct & opimising the SAAS product.
+<br>
+A product & strategy person with a strong business orientation. Product strategy to improve customer/user experience & NPS in the growth phase startups and large organizations. Eager to solve problems in a fast-paced environment. 
+<br>
+I have hands on experience in building SAAS prdouct & opimising the SAAS product.
+<br>
 I do freelancing in product development/management:) Reach out to me at rajsinghbagri18@gmail.com for collaboration and Optimising the business or Product.
 
 ---
@@ -45,6 +49,7 @@ Proposed technology stack that will best deliver these capabilities features.
 ### Indian Institute of Technology, Kanpur
 
  Recommendation for excellent performance from Prof. Vipul Arora, Electrical Engineering Department, IIT Kanpur
+ <br>
 •Analysis of ML algorithms for Handwritten digit recognition in python: Analysed SVMs and Neural Networks before implementing Naive Bayes and KNN on numerous data sets using Keras, Pandas, Numpy, and scikit-learn
 
 ---
@@ -55,9 +60,28 @@ Proposed technology stack that will best deliver these capabilities features.
 ### Indian Institute of Technology, Madras
   
  Development of Paper Batteries
+ <br>
  Studied different varieties of paper batteries available in the market
+ <br>
 • Demonstrated the method of construction of Paper battery using Carbon Nanotubes and Cellulose Machine Learning Intern
 
+### **Coordinator** 
+### Techfest, IIT Bombay
+
+Spearheaded a team of 15+ organizers to conduct various events of Techfest, IIT Bombay
+<br>
+• Designed strategies for doing publicity or event using social media platforms
+<br>
+• Coordinated with Chief guests in the event and managed the crowd on the main event day
+<br>
+• Coordinated with a security officer from IIT Bombay and Mumbai Police on the main event day of Techfest
+
+### **CR** 
+### NCC, IIT Bombay
+
+Honored with ’A’ grade in NCC C-certificate exam (highest level certificate for NCC cadets) conducted by Defence Ministry of India
+<br>
+• Led the 44 Cadets in Cultural activities held in 2 Maharashtra Eng. REGT. at IIT Bombay
 
 ---
 
