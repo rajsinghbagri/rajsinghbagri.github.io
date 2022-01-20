@@ -11,21 +11,9 @@ description: >
   
   <a href="https://twitter.com/raj_singh_bagri" title = "Follow Raj on Twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="60" height='60' alt="Gmail logo " /></a>
   
-  <a href="https://join.skype.com/invite/y8tSfZpEjlMG" title = "DM/VC Raj in Skype"><img src="https://pngimg.com/uploads/skype/skype_PNG24.png" width="60" height='60' alt="Skype logo " /></a>
+ 
+ <a href="https://join.skype.com/invite/y8tSfZpEjlMG" title = "DM Raj in Skype"><img src="https://pngimg.com/uploads/skype/skype_PNG24.png" width="40" height="40" alt="Skype logo" /></a>
   
-  
-
-<div id="contact">
-        <h2>Get in Touch</h2>
-        <div id="contact-form">
-                <form action="https://formspree.io/f/mrgjeyyz" method="POST">
-                <input type="hidden" name="_subject" value="Contact request from personal website" />
-                <input type="email" name="_replyto" placeholder="Your email" required>
-                <textarea name="message" placeholder="Type your message" required></textarea>
-                <button type="submit">Send</button>
-            </form>
-        </div>
-    </div>
 
 theme: jekyll-theme-minimal
   
