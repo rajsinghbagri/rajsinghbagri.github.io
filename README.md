@@ -83,7 +83,7 @@ Spearheaded a team of 15+ organizers to conduct various events of Techfest, IIT 
 
 Honored with ’A’ grade in NCC C-certificate exam (highest level certificate for NCC cadets) conducted by Defence Ministry of India
 <br>
-• Led the 44 Cadets in Cultural activities held in 2 Maharashtra Eng. REGT. at IIT Bombay
+• Led the 44 Cadets in Cultural activities held in Maharashtra Eng. REGT. at IIT Bombay
 
 ---
 
