@@ -1,10 +1,11 @@
 title: Raj Singh Bagri 
-logo: "/profile.png?raw=true" 
-description: 
- Product Consultant| Freelancer
+logo: "/photo.png?raw=true" 
+description: > 
+ Product Consultant
   <br><br>
   <a href="mailto:rajsinghbagri18@gmail.com">rajsinghbagri18@gmail.com </a>
   <br>
   <a href="https://www.linkedin.com/in/raj-singh-bagri-9140b7171/">LinkedIn Profile</a>
   <br>
-  <a href="https://github.com/rajsinghbagri">Gihub</a> 
+  <a href="https://github.com/rajsinghbagri">Gihub</a>  
+theme: jekyll-theme-minimal
