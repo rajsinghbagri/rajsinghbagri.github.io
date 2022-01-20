@@ -29,8 +29,7 @@ Proposed technology stack that will best deliver these capabilities features.
 
 ### **Associate Product Manager**
 ### Cerebro Kids
-<br><br>
-  
+
 • Product backlog planning & execution
 <br>
 • Defined Success Metrics to improve repository structure, content structure, and UI/UX of the products
