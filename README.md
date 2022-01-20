@@ -44,14 +44,22 @@ Proposed technology stack that will best deliver these capabilities features.
 
 ---
 
-## Position of Responsibility
+## Position of Responsibilities & Projects
+
+### **Project Leader** 
+### Indian Institute of Technology, Madras
+  
+ Development of Paper Batteries
+ Studied different varieties of paper batteries available in the market
+• Demonstrated the method of construction of Paper battery using Carbon Nanotubes and Cellulose Machine Learning Intern
+
 
 ---
 
 ## Education
 
 ### **Indian Institute of Technoloy Bombay**
-### B.Tech Metallurgical Engineering & Material Science(2018-2022)
+### B.Tech, Metallurgical Engineering(2018-2022)
 
 
 ---
