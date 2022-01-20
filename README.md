@@ -94,4 +94,4 @@ Honored with ’A’ grade in NCC C-certificate exam (highest level certificate 
 ---
 
 ### Interests
-Book Reading, Product, Swimming, Basketball
+Non Fiction Book Reading, Product, Swimming, Basketball
