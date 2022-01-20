@@ -5,7 +5,8 @@ description: >
   <br><br>
   <a href="mailto:rajsinghbagri18@gmail.com">rajsinghbagri18@gmail.com </a>
   <br>
-  <a href="https://www.linkedin.com/in/raj-singh-bagri-9140b7171/">LinkedIn Profile <img src = https://en.m.wikipedia.org/wiki/File:LinkedIn_logo_initials.png</a> 
+  <a href="https://www.linkedin.com/in/raj-singh-bagri-9140b7171/" title="LinkedIn"><img src="https://en.m.wikipedia.org/wiki/File:LinkedIn_logo_initials.png" width="auto" height='40' alt="LinkedIn logo " /></a>
   <br>
   <a href="https://twitter.com/raj_singh_bagri"> Profile</a>
 theme: jekyll-theme-minimal
+
