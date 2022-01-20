@@ -32,7 +32,7 @@ I do freelancing in product development/management:) Reach out to me at rajsingh
 Proposed technology stack that will best deliver these capabilities features.
  
   ### **Associate Product Manager** 
-  #### Cerebro Kids
+  ### Cerebro Kids
   
 • Product backlog planning & execution
 • Defined Success Metrics to improve repository structure, content structure, and UI/UX of the products
@@ -75,8 +75,10 @@ Honored with ’A’ grade in NCC C-certificate exam (highest level certificate 
 
 ## Education
 
-### **Indian Institute of Technoloy Bombay- (IIT Bombay)
+### **Indian Institute of Technoloy Bombay**- (IIT Bombay)
 ### B.Tech Metallurgical Engineering & Material Science - 2022
+
+---
 
 ### Interests
 usudbu8nuengerung
