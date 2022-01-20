@@ -18,17 +18,73 @@ I do freelancing in product development/management:) Reach out to me at rajsingh
   
   ---
   
- ## Experience
+ ## Experience - Internships & Part Time
   
   ### **Product Consultant**
   ### Eqaro Guarantees India
-  Assisting in WebApp development, contributing in various product design & tech stack to implement the ideas.
+  
+ • Assisting in WebApp development, contributing in various product design & tech stack to implement the ideas.
+  
   ### **Product Associate**
    ### Vani.coach
- Created a Roadmap for the product(Vani) - Product Requirement Document(PRD) with a total of 13 changes/updates out of which are Critical(5), Important(4), Desirable(4)
+   
+• Created a Roadmap for the product(Vani) - Product Requirement Document(PRD) with a total of 13 changes/updates out of which are Critical(5), Important(4), Desirable(4)
 Proposed technology stack that will best deliver these capabilities features.
  
   ### **Associate Product Manager** 
-  ### Cerebro Kids
+  #### Cerebro Kids
+  
+• Product backlog planning & execution
+• Defined Success Metrics to improve repository structure, content structure, and UI/UX of the products
+• Identified new product features as per requirement
+• Worked closely with the technical team(Designer & Devop) to ensure end-to-end implementation
+• Created detailed documentation for the system's features, functionalities, and gap - PRD
+
+  ### **Project Leader** 
+  ### Indian Institute of Technology, Madras
+  
+ Development of Paper Batteries
+ Studied different varieties of paper batteries available in the market
+• Demonstrated the method of construction of Paper battery using Carbon Nanotubes and Cellulose Machine Learning Intern
+
+ ### **Machine Learning Intern** 
+  ### Indian Institute of Technology, Kanpur
+ Recommendation for excellent performance from Prof. Vipul Arora, Electrical Engineering Department, IIT Kanpur
+•Analysis of ML algorithms for Handwritten digit recognition in python: Analysed SVMs and Neural Networks before implementing Naive Bayes and KNN on numerous data sets using Keras, Pandas, Numpy, and scikit-learn
+
+---
+
+ ## Position of Responsibility
+ 
+### **Coordinator** 
+### Techfest, IIT Bombay
+
+Spearheaded a team of 15+ organizers to conduct various events of Techfest, IIT Bombay
+• Designed strategies for doing publicity or event using social media platforms
+• Coordinated with Chief guests in the event and managed the crowd on the main event day
+• Coordinated with a security officer from IIT Bombay and Mumbai Police on the main event day of Techfest
+
+ 
+### **CR** 
+### NCC, IIT Bombay
+
+Honored with ’A’ grade in NCC C-certificate exam (highest level certificate for NCC cadets) conducted by Defence Ministry of India
+• Led the 44 Cadets in Cultural activities held in 2 Maharashtra Eng. REGT. at IIT Bombay
+
+---
+
+## Education
+
+### **Indian Institute of Technoloy Bombay- (IIT Bombay)
+### B.Tech Metallurgical Engineering & Material Science - 2022
+
+### Interests
+usudbu8nuengerung
+
+
+
+
+
+
   
  
