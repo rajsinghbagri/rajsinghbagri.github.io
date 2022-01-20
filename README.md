@@ -1,11 +1,11 @@
-# Hey Welcome!
+## Hey Welcome!
 I am final year UG student at IIT Bombay & incoming product associate at Kotak Securities.
 A product & strategy person with a strong business orientation. Product strategy to improve customer/user experience & NPS in the growth phase startups and large organizations. Eager to solve problems in a fast-paced environment. I have hands on experience in building SAAS prdouct & opimising the SAAS product.
 I do freelancing in product development/management:) Reach out to me at rajsinghbagri18@gmail.com for collaboration and Optimising the business or Product.
 
 ---
 
-# Skills
+## Skills
 
 <p align = 'left'>
   <img src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png' alt ='pyhton' height='40' width='auto'>
@@ -18,17 +18,17 @@ I do freelancing in product development/management:) Reach out to me at rajsingh
   
   ---
   
- # Experience
+ ## Experience
   
   ### **Product Consultant**
-  #### Eqaro Guarantees India
+  ### Eqaro Guarantees India
   Assisting in WebApp development, contributing in various product design & tech stack to implement the ideas.
   ### **Product Associate**
-   #### Vani.coach
+   ### Vani.coach
  Created a Roadmap for the product(Vani) - Product Requirement Document(PRD) with a total of 13 changes/updates out of which are Critical(5), Important(4), Desirable(4)
 Proposed technology stack that will best deliver these capabilities features.
  
   ### **Associate Product Manager** 
-  #### Cerebro Kids
+  ### Cerebro Kids
   
  
