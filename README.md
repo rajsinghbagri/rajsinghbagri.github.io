@@ -18,7 +18,7 @@ I do freelancing in product development/management:) Reach out to me at rajsingh
   
   ---
   
- ## Experience - Internships & Part Time
+ ## Experience 
   
   ### **Product Consultant**
   ### Eqaro Guarantees India
@@ -81,7 +81,7 @@ Honored with ’A’ grade in NCC C-certificate exam (highest level certificate 
 ---
 
 ### Interests
-Book Reading
+Book Reading, Product, Swimming, Basketball
 
 
 
