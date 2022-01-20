@@ -44,6 +44,10 @@ Proposed technology stack that will best deliver these capabilities features.
 
 ---
 
+## Position of Responsibility
+
+---
+
 ## Education
 
 ### **Indian Institute of Technoloy Bombay**
