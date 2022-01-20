@@ -4,7 +4,7 @@ I am final year UG student at IIT Bombay & incoming product associate at Kotak S
 <br>
 A product & strategy person with a strong business orientation. Product strategy to improve customer/user experience & NPS in the growth phase startups and large organizations. Eager to solve problems in a fast-paced environment. 
 <br>
-I have hands on experience in building SAAS prdouct & opimising the SAAS product.
+I have hands on experience in building SAAS prdouct & optimising the SAAS product.
 <br>
 I do freelancing in product development/management:) Reach out to me at rajsinghbagri18@gmail.com for collaboration and Optimising the business or Product.
 
