@@ -51,10 +51,6 @@ Proposed technology stack that will best deliver these capabilities features.
   ### Indian Institute of Technology, Kanpur
  Recommendation for excellent performance from Prof. Vipul Arora, Electrical Engineering Department, IIT Kanpur
 •Analysis of ML algorithms for Handwritten digit recognition in python: Analysed SVMs and Neural Networks before implementing Naive Bayes and KNN on numerous data sets using Keras, Pandas, Numpy, and scikit-learn
-
----
-
- ## Position of Responsibility
  
 ### **Coordinator** 
 ### Techfest, IIT Bombay
