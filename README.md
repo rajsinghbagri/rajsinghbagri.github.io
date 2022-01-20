@@ -16,8 +16,7 @@ I do freelancing in product development/management:) Reach out to me at rajsingh
   </p>
   
   -----
-  
-  ## Experience
+   ## Experience
   
   ### **Product Consultant**
   #### Eqaro Guarantees India
@@ -26,5 +25,8 @@ I do freelancing in product development/management:) Reach out to me at rajsingh
    #### Vani.coach
  Created a Roadmap for the product(Vani) - Product Requirement Document(PRD) with a total of 13 changes/updates out of which are Critical(5), Important(4), Desirable(4)
 Proposed technology stack that will best deliver these capabilities features.
+ 
+  ### **Associate Product Manager** 
+  #### Cerebro Kids
   
  
