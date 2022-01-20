@@ -47,7 +47,7 @@ Proposed technology stack that will best deliver these capabilities features.
 ## Education
 
 ### **Indian Institute of Technoloy Bombay**
-### B.Tech B.Tech Metallurgical Engineering & Material Science(2018-2022)
+### B.Tech Metallurgical Engineering & Material Science(2018-2022)
 
 
 ---
