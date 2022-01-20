@@ -72,7 +72,7 @@ Honored with ’A’ grade in NCC C-certificate exam (highest level certificate 
 
 ## Education
 
-### **Indian Institute of Technoloy Bombay**- (IIT Bombay)
+### **Indian Institute of Technoloy Bombay**
 ### B.Tech Metallurgical Engineering & Material Science - 2022
 
 ---
