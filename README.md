@@ -18,7 +18,7 @@ I do freelancing in product development/management:) Reach out to me at rajsingh
   
   ---
   
- ## Experience
+ # Experience
   
   ### **Product Consultant**
   #### Eqaro Guarantees India
