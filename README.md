@@ -1,6 +1,6 @@
 ## Hey Welcome!
 
-I am final year UG student at IIT Bombay & incoming product associate at Kotak Securities.
+I am final year UG student at IIT Bombay & incoming Product Associate at Kotak Securities.
 <br>
 A product & strategy person with a strong business orientation.
 <br>
