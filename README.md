@@ -48,7 +48,8 @@ Proposed technology stack that will best deliver these capabilities features.
 • Demonstrated the method of construction of Paper battery using Carbon Nanotubes and Cellulose Machine Learning Intern
 
  ### **Machine Learning Intern** 
-  ### Indian Institute of Technology, Kanpur
+ ### Indian Institute of Technology, Kanpur
+ 
  Recommendation for excellent performance from Prof. Vipul Arora, Electrical Engineering Department, IIT Kanpur
 •Analysis of ML algorithms for Handwritten digit recognition in python: Analysed SVMs and Neural Networks before implementing Naive Bayes and KNN on numerous data sets using Keras, Pandas, Numpy, and scikit-learn
  
