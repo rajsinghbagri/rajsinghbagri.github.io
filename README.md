@@ -65,7 +65,7 @@ Proposed technology stack that will best deliver these capabilities features.
  <br>
  Studied different varieties of paper batteries available in the market
  <br>
-• Demonstrated the method of construction of Paper battery using Carbon Nanotubes and Cellulose Machine Learning Intern
+• Demonstrated the method of construction of Paper battery using Carbon Nanotubes and Cellulose
 
 ### **Coordinator** 
 ### Techfest, IIT Bombay
