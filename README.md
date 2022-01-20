@@ -29,12 +29,18 @@ Proposed technology stack that will best deliver these capabilities features.
 
 ### **Associate Product Manager**
 ### Cerebro Kids
-
+<br><br>
+  
 • Product backlog planning & execution
+<br>
 • Defined Success Metrics to improve repository structure, content structure, and UI/UX of the products
+<br>
 • Identified new product features as per requirement
+<br>
 • Worked closely with the technical team(Designer & Devop) to ensure end-to-end implementation
+<br>
 • Created detailed documentation for the system's features, functionalities, and gap - PRD
+<br>
 
 ### **Machine Learning Intern** 
 ### Indian Institute of Technology, Kanpur
