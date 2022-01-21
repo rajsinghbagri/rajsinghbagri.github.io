@@ -16,8 +16,8 @@ I do freelancing in Product development/management & Digital marketing:) Reach o
 ## Skills
 
 <p align = 'left'>
-  <img src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png' alt ='pyhton' height='40' width='auto'>
-  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" width="auto" height='40' alt="logo html 5, css, javascript source code for the taking">
+  <img src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png' alt ='python' height='40' width='auto'>
+  <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" width="50" height='40' alt="logo html 5, css, javascript source code for the taking">
   <img src= 'https://user-images.githubusercontent.com/98072911/150570441-2fcbc7f6-a46a-4b85-b378-c70303cbc1bb.png' alt ='matlab' height='45' width='50'>
   
   <img src= 'https://user-images.githubusercontent.com/98072911/150562683-5d1a054d-8d1f-4b30-9712-8dbf67bf7779.svg' alt ='C++' height='40' width='auto'>
