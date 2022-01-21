@@ -8,7 +8,7 @@ Product strategy to improve customer/user experience & NPS in the growth phase s
 <br>
 I have hands on experience in building SAAS prdouct & optimising the SAAS product.
 <br>
-I do freelancing in product development/management:) Reach out to me at rajsinghbagri18@gmail.com for collaboration and Optimising the business or Product.
+I do freelancing in Product development/management & Digital marketing:) Reach out to me at rajsinghbagri18@gmail.com for collaboration and Optimising the business or Product.
 
 ---
 
