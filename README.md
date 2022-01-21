@@ -10,13 +10,16 @@ I have hands on experience in building SAAS prdouct & optimising the SAAS produc
 <br>
 I do freelancing in Product development/management & Digital marketing:) Reach out to me at rajsinghbagri18@gmail.com for collaboration and Optimising the business or Product.
 
----
+
+
 
 ## Skills
 
 <p align = 'left'>
   <img src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png' alt ='pyhton' height='40' width='auto'>
   <img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" width="auto" height='40' alt="logo html 5, css, javascript source code for the taking">
+  <img src= 'https://user-images.githubusercontent.com/98072911/150570441-2fcbc7f6-a46a-4b85-b378-c70303cbc1bb.png' alt ='matlab' height='40' width='auto'>
+  
   <img src= 'https://user-images.githubusercontent.com/98072911/150562683-5d1a054d-8d1f-4b30-9712-8dbf67bf7779.svg' alt ='C++' height='40' width='auto'>
     <img src='https://user-images.githubusercontent.com/98072911/150564130-ac60c50a-ac56-4ed9-867b-32ba24da4385.png' alt ='R' height='40' width='auto'>
 <img width="auto" height= '40' alt="logo-gradient-blue-jira" src="https://user-images.githubusercontent.com/98072911/150286408-ed19642b-42f2-4431-9bda-055f59ef2558.png">
