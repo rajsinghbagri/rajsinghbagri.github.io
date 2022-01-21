@@ -22,10 +22,11 @@ I do freelancing in Product development/management & Digital marketing:) Reach o
   
   <img src= 'https://user-images.githubusercontent.com/98072911/150562683-5d1a054d-8d1f-4b30-9712-8dbf67bf7779.svg' alt ='C++' height='40' width='auto'>
     <img src='https://user-images.githubusercontent.com/98072911/150564130-ac60c50a-ac56-4ed9-867b-32ba24da4385.png' alt ='R' height='40' width='auto'>
+   <br>
 <img width="auto" height= '40' alt="logo-gradient-blue-jira" src="https://user-images.githubusercontent.com/98072911/150286408-ed19642b-42f2-4431-9bda-055f59ef2558.png">
   
    <img src='https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png' alt ='excel' height='40' width='auto'>
-  <br>
+ 
   <img src='https://user-images.githubusercontent.com/98072911/150288629-020012f6-3a0e-4db0-92d5-e8efc5b96712.png' alt ='tableau' height='40' width='auto'> 
   <img src='https://user-images.githubusercontent.com/98072911/150289350-361c4eea-7fa1-4dcf-a6a2-6754a9b76612.png' alt ='Figma' height='40' width='auto'> 
   <img src='https://logodownload.org/wp-content/uploads/2019/08/google-adwords-logo-6.png' alt ='Google Ads' height='40' width='auto'>
