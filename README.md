@@ -97,14 +97,14 @@ Spearheaded a team of <strong>15+ organizers</strong> to conduct various events 
 ### **CR** 
 ### NCC, IIT Bombay
 
-Honored with ’A’ grade in NCC C-certificate exam (<strong> highest level </strong> certificate for NCC cadets) conducted by <strong>Defence Ministry of India</strong>
+Honored with <strong> ’A’ </strong> grade in NCC C-certificate exam (<strong> highest level </strong> certificate for NCC cadets) conducted by <strong>Defence Ministry of India</strong>
 <br>
 • Led the 44 Cadets in Cultural activities held in Maharashtra Eng. REGT. at IIT Bombay
 
 ### **Overall Coordinator** 
 ### Eduride India
 Eduride is a group of changemakers who are trying to bridge the resource gap in India's education system.
-• Recognized by Ministry of Education, Government of India, Student lives impacted: <strong>600+ donation:14lac INR within 5 days </strong> of campaign.
+• Recognized by Ministry of Education, Government of India, Student lives impacted: <strong>600+ ; donation:14lac INR within 5 days </strong> of campaign.
 
 ---
 
