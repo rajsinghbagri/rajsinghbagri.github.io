@@ -68,7 +68,7 @@ Letter of Recommendation from <strong> Founder & CEO </strong> of Vyakta Consult
 
  Recommendation for <strong> excellent performance </strong> from Prof. Vipul Arora, Electrical Engineering Department, IIT Kanpur
  <br>
-•Analysis of <strong> ML algorithms </strong> for Handwritten digit recognition in python: Analysed <strong>SVMs</strong> and <strong>Neural Networks</strong> before implementing <strong>Naive Bayes<strong> and <strong>KNN</strong> on numerous data sets using <strong>Keras, Pandas, Numpy, and scikit-learn</strong>
+•Analysis of <strong> ML algorithms </strong> for Handwritten digit recognition in python: Analysed <strong>SVMs</strong> and <strong>Neural Networks</strong> before implementing <strong>Naive Bayes</strong> and <strong>KNN</strong> on numerous data sets using <strong>Keras, Pandas, Numpy, and scikit-learn</strong>
 
 ---
 
