@@ -44,7 +44,9 @@ I do freelancing in <strong> Product development/management & Digital marketing 
 ### **Product Associate**
 ### Vani.coach
 Letter of Recommendation from <strong> Founder & CEO </strong> of Vyakta Consulting Ltd.(Now Vani.coach)
+<br>
 • Created a Roadmap for the product(Vani) - Product Requirement Document(PRD) with a total of 13 changes/updates out of which are Critical(5), Important(4), Desirable(4)
+<br>
 • Proposed technology stack that will best deliver these capabilities features.
 
 ### **Associate Product Manager**
