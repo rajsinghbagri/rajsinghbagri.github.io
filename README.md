@@ -1,12 +1,12 @@
 ## Hey Welcome!
 
-I am final year UG student at IIT Bombay & incoming Product Associate at Kotak Securities.
+I am final year UG student at <strong> IIT Bombay </strong> & incoming Product Associate at Kotak Securities.
 <br>
 A product & strategy person with a strong business orientation.
-<br>
+
 Product strategy to improve customer/user experience & NPS in the growth phase startups and large organizations. Eager to solve problems in a fast-paced environment. 
 <br>
-I have hands on experience in building SAAS prdouct & optimising the SAAS product.
+I have hands on experience in building SAAS prdoucts & optimising the SAAS product.
 <br>
 I do freelancing in Product development/management & Digital marketing:) Reach out to me at rajsinghbagri18@gmail.com for collaboration and Optimising the business or Product.
 
@@ -90,7 +90,7 @@ Spearheaded a team of 15+ organizers to conduct various events of Techfest, IIT 
 <br>
 • Coordinated with Chief guests in the event and managed the crowd on the main event day
 <br>
-• Coordinated with a security officer from IIT Bombay and Mumbai Police on the main event day of Techfest
+• Coordinated with a chief security officer from IIT Bombay and Mumbai Police on the main event day of Techfest
 
 ### **CR** 
 ### NCC, IIT Bombay
