@@ -88,7 +88,7 @@ Letter of Recommendation from <strong> Founder & CEO </strong> of Vyakta Consult
 
 Spearheaded a team of <strong>15+ organizers</strong> to conduct various events of Techfest, IIT Bombay
 <br>
-• Designed <strong>strategies for doing publicity or event using social media platforms
+• Designed <strong>strategies</strong> for doing publicity or event using social media platforms
 <br>
 • Coordinated with Chief guests in the event and managed the crowd on the main event day
 <br>
