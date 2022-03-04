@@ -1,6 +1,6 @@
 ## Hey Welcome!
 
-I am final year UG student at <strong> IIT Bombay </strong> & incoming Product Associate at Kotak Securities.
+I am final year UG student at <strong> IIT Bombay </strong> & incoming <strong> Product Associate </strong> at Kotak Securities.
 <br>
 A product & strategy person with a strong business orientation.
 
@@ -8,7 +8,7 @@ Product strategy to improve customer/user experience & NPS in the growth phase s
 <br>
 I have hands on experience in building SAAS prdoucts & optimising the SAAS product.
 <br>
-I do freelancing in Product development/management & Digital marketing:) Reach out to me at rajsinghbagri18@gmail.com for collaboration and Optimising the business or Product.
+I do freelancing in <strong> Product development/management & Digital marketing </strong>:) Reach out to me at rajsinghbagri18@gmail.com for collaboration and Optimising the business or Product.
 
 
 
@@ -43,30 +43,30 @@ I do freelancing in Product development/management & Digital marketing:) Reach o
 
 ### **Product Associate**
 ### Vani.coach
-Letter of Recommendation from Founder & CEO of Vyakta Consulting Ltd.(Now Vani.coach)
+Letter of Recommendation from <strong> Founder & CEO </strong> of Vyakta Consulting Ltd.(Now Vani.coach)
 • Created a Roadmap for the product(Vani) - Product Requirement Document(PRD) with a total of 13 changes/updates out of which are Critical(5), Important(4), Desirable(4)
-Proposed technology stack that will best deliver these capabilities features.
+• Proposed technology stack that will best deliver these capabilities features.
 
 ### **Associate Product Manager**
 ### Cerebro Kids
 
-• Product backlog planning & execution
+• Product <strong> backlog planning & execution </strong>
 <br>
-• Defined Success Metrics to improve repository structure, content structure, and UI/UX of the products
+• Defined <strong> Success Metrics</strong> to improve repository structure, content structure, and <strong> UI/UX </strong>of the products
 <br>
 • Identified new product features as per requirement
 <br>
 • Worked closely with the technical team(Designer & Devop) to ensure end-to-end implementation
 <br>
-• Created detailed documentation for the system's features, functionalities, and gap - PRD
+• Created detailed documentation for the system's features, functionalities, and gap - <strong>PRD</strong>
 <br>
 
 ### **Machine Learning Intern** 
 ### Indian Institute of Technology, Kanpur
 
- Recommendation for excellent performance from Prof. Vipul Arora, Electrical Engineering Department, IIT Kanpur
+ Recommendation for <strong> excellent performance </strong> from Prof. Vipul Arora, Electrical Engineering Department, IIT Kanpur
  <br>
-•Analysis of ML algorithms for Handwritten digit recognition in python: Analysed SVMs and Neural Networks before implementing Naive Bayes and KNN on numerous data sets using Keras, Pandas, Numpy, and scikit-learn
+•Analysis of <strong> ML algorithms </strong> for Handwritten digit recognition in python: Analysed <strong>SVMs</strong> and <strong>Neural Networks</strong> before implementing <strong>Naive Bayes<strong> and <strong>KNN</strong> on numerous data sets using <strong>Keras, Pandas, Numpy, and scikit-learn</strong>
 
 ---
 
@@ -84,9 +84,9 @@ Proposed technology stack that will best deliver these capabilities features.
 ### **Coordinator** 
 ### Techfest, IIT Bombay
 
-Spearheaded a team of 15+ organizers to conduct various events of Techfest, IIT Bombay
+Spearheaded a team of <strong>15+ organizers</strong> to conduct various events of Techfest, IIT Bombay
 <br>
-• Designed strategies for doing publicity or event using social media platforms
+• Designed <strong>strategies for doing publicity or event using social media platforms
 <br>
 • Coordinated with Chief guests in the event and managed the crowd on the main event day
 <br>
@@ -99,12 +99,19 @@ Honored with ’A’ grade in NCC C-certificate exam (highest level certificate 
 <br>
 • Led the 44 Cadets in Cultural activities held in Maharashtra Eng. REGT. at IIT Bombay
 
+### **Overall Coordinator** 
+### Eduride India
+Eduride is a group of changemakers who are trying to bridge the resource gap in India's education system.
+• Recognized by Ministry of Education, Government of India, Student lives impacted: <strong>600+ donation:14lac INR within 5 days </strong> of campaign.
+
 ---
 
 ## Education
 
 ### **Indian Institute of Technoloy Bombay**
 ### B.Tech, Metallurgical Engineering(2018-2022)
+
+
 
 
 ---
