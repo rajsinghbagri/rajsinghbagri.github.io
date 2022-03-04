@@ -97,7 +97,7 @@ Spearheaded a team of <strong>15+ organizers</strong> to conduct various events 
 ### **CR** 
 ### NCC, IIT Bombay
 
-Honored with ’A’ grade in NCC C-certificate exam (highest level certificate for NCC cadets) conducted by Defence Ministry of India
+Honored with ’A’ grade in NCC C-certificate exam (<strong> highest level </strong> certificate for NCC cadets) conducted by <strong>Defence Ministry of India</strong>
 <br>
 • Led the 44 Cadets in Cultural activities held in Maharashtra Eng. REGT. at IIT Bombay
 
