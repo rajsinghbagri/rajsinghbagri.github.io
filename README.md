@@ -90,7 +90,7 @@ Spearheaded a team of <strong>15+ organizers</strong> to conduct various events 
 <br>
 • Designed <strong>strategies</strong> for doing publicity or event using social media platforms
 <br>
-• Coordinated with Chief guests in the event and managed the crowd on the main event day
+• Coordinated with Chief guests in the events and managed the crowd on the main event day
 <br>
 • Coordinated with a chief security officer from IIT Bombay and Mumbai Police on the main event day of Techfest
 
