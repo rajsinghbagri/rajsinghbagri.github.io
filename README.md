@@ -104,6 +104,7 @@ Honored with <strong> ’A’ </strong> grade in NCC C-certificate exam (<strong
 ### **Overall Coordinator** 
 ### Eduride India
 Eduride is a group of changemakers who are trying to bridge the resource gap in India's education system.
+<br>
 • Recognized by Ministry of Education, Government of India, <strong> Student lives impacted </strong>: <strong>600+ ; donation:14lac INR within 5 days </strong> of campaign.
 
 ---
