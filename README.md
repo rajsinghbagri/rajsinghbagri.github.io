@@ -2,9 +2,7 @@
 
 I am final year UG student at <strong> IIT Bombay </strong> & incoming <strong> Product Associate </strong> at Kotak Securities.
 <br>
-A product & strategy person with a strong business orientation.
-
-Product strategy to improve customer/user experience & NPS in the growth phase startups and large organizations. Eager to solve problems in a fast-paced environment. 
+A product & strategy person with a strong business orientation. Product strategy to improve customer/user experience & NPS in the growth phase startups and large organizations. Eager to solve problems in a fast-paced environment. 
 <br>
 I have hands on experience in building SAAS prdoucts & optimising the SAAS product.
 <br>
