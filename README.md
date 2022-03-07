@@ -1,12 +1,12 @@
 ## Hey Welcome!
 
-I am final year UG student at <strong> IIT Bombay </strong> & incoming <strong> Product Associate </strong> at Kotak Securities.
+I am final year UG student at IIT Bombay & incoming Product Associate at Kotak Securities.
 <br>
 A product & strategy person with a strong business orientation. Product strategy to improve customer/user experience & NPS in the growth phase startups and large organizations. Eager to solve problems in a fast-paced environment. 
 <br>
 I have hands on experience in building SAAS prdoucts & optimising the SAAS product.
 <br>
-I do freelancing in <strong> Product development/management & Digital marketing </strong>:) Reach out to me at rajsinghbagri18@gmail.com for collaboration and Optimising the business or Product.
+I do freelancing in Product development/management & Digital marketing :) Reach out to me at rajsinghbagri18@gmail.com for collaboration and Optimising the business or Product.
 
 
 
