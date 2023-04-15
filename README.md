@@ -23,7 +23,7 @@ I do freelancing in Product development/management & Digital marketing :) Reach 
   
    <img src='https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png' alt ='excel' height='40' width='auto'>
  
-  <img src='https://user-images.githubusercontent.com/98072911/150288629-020012f6-3a0e-4db0-92d5-e8efc5b96712.png' alt ='tableau' height='40' width='auto'> 
+  
   <img src='https://user-images.githubusercontent.com/98072911/150289350-361c4eea-7fa1-4dcf-a6a2-6754a9b76612.png' alt ='Figma' height='40' width='auto'> 
   <img src='https://upload.wikimedia.org/wikipedia/commons/d/df/Googleanalyticsicon.png' alt ='Google Analytics' height='40' width='auto'>
   
