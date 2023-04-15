@@ -18,7 +18,7 @@ I do freelancing in Product development/management & Digital marketing :) Reach 
   <img src= 'https://user-images.githubusercontent.com/98072911/150570441-2fcbc7f6-a46a-4b85-b378-c70303cbc1bb.png' alt ='matlab' height='45' width='50'>
   
     <img src='https://user-images.githubusercontent.com/98072911/150564130-ac60c50a-ac56-4ed9-867b-32ba24da4385.png' alt ='R' height='40' width='auto'>
-   <br>
+   
 <img width="auto" height= '40' alt="logo-gradient-blue-jira" src="https://user-images.githubusercontent.com/98072911/150286408-ed19642b-42f2-4431-9bda-055f59ef2558.png">
   
    <img src='https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png' alt ='excel' height='40' width='auto'>
