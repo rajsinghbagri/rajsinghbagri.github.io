@@ -41,6 +41,16 @@ Student & Learner🙏
 
 ## Experience
 
+### **Product Consultant** (Part Time)
+### Eqaro Guarantees
+
+• Did Business requirement analysis & implemented those at product levels
+<br>
+• Proposed technology stack that will best deliver these capabilities features
+<br>
+•Assisted in managing software development project
+<br>
+•
 
 
 ### **Product Associate** (Intern)
@@ -51,7 +61,7 @@ Letter of Recommendation from <strong> Founder & CEO </strong> of Vyakta Consult
 <br>
 • Proposed technology stack that will best deliver these capabilities features.
 
-### **Associate Product Manager** (Part Time)
+### **Associate Product Manager** (Intern)
 ### Cerebro Kids
 
 • Product <strong> backlog planning & execution </strong>
@@ -65,7 +75,7 @@ Letter of Recommendation from <strong> Founder & CEO </strong> of Vyakta Consult
 • Created detailed documentation for the system's features, functionalities, and gap - <strong>PRD</strong>
 <br>
 
-### **Machine Learning Intern**(Part Time)
+### **Machine Learning Intern**
 ### Indian Institute of Technology, Kanpur
 
  Recommendation for <strong> excellent performance </strong> from Prof. Vipul Arora, Electrical Engineering Department, IIT Kanpur
