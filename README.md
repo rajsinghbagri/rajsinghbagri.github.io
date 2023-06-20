@@ -51,7 +51,7 @@ Letter of Recommendation from <strong> Founder & CEO </strong> of Vyakta Consult
 <br>
 • Proposed technology stack that will best deliver these capabilities features.
 
-### **Associate Product Manager**(Part Time)
+### **Associate Product Manager** (Part Time)
 ### Cerebro Kids
 
 • Product <strong> backlog planning & execution </strong>
