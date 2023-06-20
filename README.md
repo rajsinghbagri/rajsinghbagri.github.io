@@ -41,6 +41,27 @@ Student & Learner🙏
 
 ## Experience
 
+### **Marketing Manager**
+### Kotak Securities
+• Did all the integrations to make smartech live & utilise it to reach out customer more efficiently through APNs, Email, Whatsapp, SMS, Inapp
+<br>
+• Built Drag & Drop Emailer
+...WIP
+
+
+### **VC Intern**
+### Toronto Business Development Centre
+• Closed deal with startups worth more than 2.6Cr
+<br>
+• Did Partnerships with 20+ Incubators & Accelletors working in the area of Agri Tech, Clean Tech, Climate, Cyber Security
+
+
+### **Research & Innovation** (Part Time)
+### Standard DAO
+• Did Research on different vestors, crypto
+<br>
+• Built one smart contraxt for D2C brand
+
 ### **Product Consultant** (Part Time)
 ### Eqaro Guarantees
 
@@ -48,9 +69,9 @@ Student & Learner🙏
 <br>
 • Proposed technology stack that will best deliver these capabilities features
 <br>
-•Assisted in managing software development project
+• Assisted in managing software development project
 <br>
-•
+• Solved the problem of user duplication & public reposiotary
 
 
 ### **Product Associate** (Intern)
