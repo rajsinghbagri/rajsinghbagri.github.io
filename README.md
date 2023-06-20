@@ -51,7 +51,7 @@ Student & Learner🙏
 
 ### **VC Intern**
 ### Toronto Business Development Centre
-• Closed deal with startups worth more than 2.6Cr
+• Closed deals with startups worth more than 2.6Cr
 <br>
 • Did Partnerships with 20+ Incubators & Accelletors working in the area of Agri Tech, Clean Tech, Climate, Cyber Security
 
@@ -60,7 +60,7 @@ Student & Learner🙏
 ### Standard DAO
 • Did Research on different vestors, crypto
 <br>
-• Built one smart contraxt for D2C brand
+• Built one smart contract for D2C brand
 
 ### **Product Consultant** (Part Time)
 ### Eqaro Guarantees
