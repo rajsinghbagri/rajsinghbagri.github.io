@@ -13,7 +13,8 @@ During my college days I have worked(Part time/Inern) with 4 SAAS startups(2 Ed 
 <br> 
 I am always open for collaborations in the field of VCs, Product, Marketing, Tech.
 <br>
-Forever Student & Learner🙏
+
+Student & Learner🙏
 
 
 
