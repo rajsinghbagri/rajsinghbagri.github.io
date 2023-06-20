@@ -43,7 +43,7 @@ Student & Learner🙏
 
 
 
-### **Product Associate**
+### **Product Associate** (Intern)
 ### Vani.coach
 Letter of Recommendation from <strong> Founder & CEO </strong> of Vyakta Consulting Ltd.(Now Vani.coach)
 <br>
