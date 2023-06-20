@@ -9,6 +9,8 @@ I have hands on experience in building SAAS prdoucts & optimising the SAAS produ
 I have built one startup in my second year at IITB which helped 650+ students to reach their examination centre with total 14lac fund raise within 5 days. During my college days I have worked 4 SAAS startups(2 Ed Tech, 1 Web3, 1 Real Estate) & one Acclerator(TBDC) where I helped their India team to close some of best deals with Indian Incubators, Accelerators & Startups.
 <br> 
 I am always open for collaborations in the field of VCs, Product, Marketing, Tech.
+<br>
+Forever Student & Learner🙏
 
 
 
