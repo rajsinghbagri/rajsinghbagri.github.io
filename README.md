@@ -1,6 +1,6 @@
 ## Hey Welcome!
 
-I am final year UG student at IIT Bombay.
+I am Raj Singh Bagri an IITB Alumni & Tech/SAAS enthu guy.
 <br>
 A product & strategy person with a strong business orientation. Product strategy to improve customer/user experience & NPS in the growth phase startups and large organizations. Eager to solve problems in a fast-paced environment. 
 <br>
