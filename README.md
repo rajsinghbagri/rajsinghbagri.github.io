@@ -1,4 +1,4 @@
-## Hey Welcome!
+## Hey!
 
 I am Raj Singh Bagri an IITB'22 Alumni & Tech/SAAS enthu guy.
 <br>
