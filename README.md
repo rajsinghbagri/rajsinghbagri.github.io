@@ -41,11 +41,12 @@ Student & Learner🙏
 
 ## Experience
 
-### **Marketing Manager**
+### **Product Manager**
 ### Kotak Securities
 • Did all the integrations to make smartech live & utilise it to reach out customer more efficiently through APNs, Email, Whatsapp, SMS, Inapp
 <br>
 • Built Drag & Drop Emailer
+• Working on to automate all campaigns and communications from Kotak
 ...WIP
 
 
