@@ -41,7 +41,7 @@ Student & Learner🙏
 
 ## Experience
 
-### **Product Manager**
+### **Marketing Manager**
 ### Kotak Securities(Full Time, May 2022 -Current) 
 • Did all the integrations to make smartech live & utilise it to reach out customer more efficiently through APNs, Email, Whatsapp, SMS, Inapp
 <br>
