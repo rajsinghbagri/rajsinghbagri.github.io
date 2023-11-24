@@ -42,7 +42,7 @@ Student & Learner🙏
 ## Experience
 
 ### **Product Manager**
-### Kotak Securities
+### Kotak Securities(Full Time, May 2022 -Current) 
 • Did all the integrations to make smartech live & utilise it to reach out customer more efficiently through APNs, Email, Whatsapp, SMS, Inapp
 <br>
 • Built Drag & Drop Emailer
@@ -52,20 +52,20 @@ Student & Learner🙏
 
 
 ### **VC Intern**
-### Toronto Business Development Centre
+### Toronto Business Development Centre (Part Time, Jan 2022 - May 2022)
 • Closed deals with startups worth more than 2.6Cr
 <br>
 • Did Partnerships with 20+ Incubators & Accelletors working in the area of Agri Tech, Clean Tech, Climate, Cyber Security
 
 
-### **Research & Innovation** (Part Time)
-### Standard DAO
+### **Research & Innovation** 
+### Standard DAO ( Freelancing, Feb 2022 - June 2022)
 • Did Research on different vestors, crypto
 <br>
 • Built one smart contract for D2C brand
 
-### **Product Consultant** (Part Time)
-### Eqaro Guarantees
+### **Product Consultant** 
+### Eqaro Guarantees (Part Time, Sept 2021 - May 2022)
 
 • Did Business requirement analysis & implemented those at product levels
 <br>
@@ -76,16 +76,16 @@ Student & Learner🙏
 • Solved the problem of user duplication & public reposiotary
 
 
-### **Product Associate** (Intern)
-### Vani.coach
+### **Product Associate** 
+### Vani.coach (Intern, May 2021 - July 2021| Part Time, Sept 2021 - Dec 2021)
 Letter of Recommendation from <strong> Founder & CEO </strong> of Vyakta Consulting Ltd.(Now Vani.coach)
 <br>
 • Created a Roadmap for the product(Vani) - Product Requirement Document(PRD) with a total of 13 changes/updates out of which are Critical(5), Important(4), Desirable(4)
 <br>
 • Proposed technology stack that will best deliver these capabilities features.
 
-### **Associate Product Manager** (Intern)
-### Cerebro Kids
+### **Associate Product Manager** 
+### Cerebro Kids ( Intern, Aug 2021 - Sept 2021)
 
 • Product <strong> backlog planning & execution </strong>
 <br>
@@ -99,7 +99,7 @@ Letter of Recommendation from <strong> Founder & CEO </strong> of Vyakta Consult
 <br>
 
 ### **Machine Learning Intern**
-### Indian Institute of Technology, Kanpur
+### Indian Institute of Technology, Kanpur ( Intern, May 2019 - June 2019)
 
  Recommendation for <strong> excellent performance </strong> from Prof. Vipul Arora, Electrical Engineering Department, IIT Kanpur
  <br>
@@ -110,7 +110,7 @@ Letter of Recommendation from <strong> Founder & CEO </strong> of Vyakta Consult
 ## Position of Responsibilities & Projects
 
 ### **Project Leader** 
-### Indian Institute of Technology, Madras
+### Indian Institute of Technology, Madras (Project, Aug 2021 - Jan 2022)
   
  Development of Paper Batteries
  <br>
@@ -118,8 +118,14 @@ Letter of Recommendation from <strong> Founder & CEO </strong> of Vyakta Consult
  <br>
 • Demonstrated the method of construction of Paper battery using Carbon Nanotubes and Cellulose
 
+### **Overall Coordinator** 
+### Eduride India (Startup/POR, Sept 2020 - Oct 2020)
+Eduride is a group of changemakers who are trying to bridge the resource gap in India's education system.
+<br>
+• Recognized by Ministry of Education, Government of India, <strong> Student lives impacted </strong>: <strong>600+ ; donation:14lac INR within 5 days </strong> of campaign.
+
 ### **Coordinator** 
-### Techfest, IIT Bombay
+### Techfest, IIT Bombay (POR, July 2019 - March 2020)
 
 Spearheaded a team of <strong>15+ organizers</strong> to conduct various events of Techfest, IIT Bombay
 <br>
@@ -130,17 +136,11 @@ Spearheaded a team of <strong>15+ organizers</strong> to conduct various events 
 • Coordinated with a chief security officer from IIT Bombay and Mumbai Police on the main event day of Techfest
 
 ### **CR** 
-### NCC, IIT Bombay
+### NCC, IIT Bombay (POR, Aug 2018 - April 2019)
 
 Honored with <strong> ’A’ </strong> grade in NCC C-certificate exam (<strong> highest level </strong> certificate for NCC cadets) conducted by <strong>Defence Ministry of India</strong>
 <br>
 • Led the 44 Cadets in Cultural activities held in Maharashtra Eng. REGT. at IIT Bombay
-
-### **Overall Coordinator** 
-### Eduride India
-Eduride is a group of changemakers who are trying to bridge the resource gap in India's education system.
-<br>
-• Recognized by Ministry of Education, Government of India, <strong> Student lives impacted </strong>: <strong>600+ ; donation:14lac INR within 5 days </strong> of campaign.
 
 ---
 
