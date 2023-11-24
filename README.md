@@ -59,13 +59,13 @@ Student & Learner🙏
 
 
 ### **Research & Innovation** 
-### Standard DAO ( Freelancing, Feb 2022 - June 2022)
+### Standard DAO ( Freelancing, Feb 2022 - May 2022)
 • Did Research on different vestors, crypto
 <br>
 • Built one smart contract for D2C brand
 
 ### **Product Consultant** 
-### Eqaro Guarantees (Part Time, Sept 2021 - May 2022)
+### Eqaro Guarantees (Part Time, Sept 2021 - Feb 2022)
 
 • Did Business requirement analysis & implemented those at product levels
 <br>
